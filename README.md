@@ -11,7 +11,9 @@ Tenho interesse em desenvolvimento backend e construção de aplicações eficie
 
 ## 🛠️ Tecnologias & Ferramentas
 
----
+Linguagens: Java, JavaScript, Python
+Banco de dados: MySQL, MongoDB
+Ferramentas: Git, GitHub, Visual Studio Code
 
 ## 📌 Projetos em destaque
 
