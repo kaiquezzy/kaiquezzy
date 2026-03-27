@@ -11,9 +11,10 @@ Tenho interesse em desenvolvimento backend e construção de aplicações eficie
 
 ## 🛠️ Tecnologias & Ferramentas
 
-* **Linguagens:** Java, JavaScript, Python
+* **Linguagens:** Java, JavaScript, Python, HTML
 * **Banco de dados:** MySQL, MongoDB
 * **Ferramentas:** Git, GitHub, Visual Studio Code
+* **Frontend:** HTML, CSS (básico)
 
 ---
 
@@ -57,11 +58,4 @@ Busco uma oportunidade de estágio na área de desenvolvimento para aplicar meus
 ⚡ *Focado em aprender, evoluir e construir soluções reais.*
 
 
-
-## 🎯 Objetivo
-
-Busco uma oportunidade de estágio na área de desenvolvimento para aplicar meus conhecimentos, aprender com profissionais experientes e evoluir como desenvolvedor.
-
-
-⚡ *Sempre aprendendo, evoluindo e construindo.*
 
