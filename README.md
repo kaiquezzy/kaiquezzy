@@ -41,13 +41,11 @@ Java | JavaScript | Python
 🔗 **Repositório:**
 (https://github.com/kaiquezzy/AtlheMap.git)
 
----
 
 ## 📫 Contato
 
 * 📧 Email: [AtlheMap@gmail.com](mailto:AtlheMap@gmail.com)
-
----
+* 📧 Linkedin: www.linkedin.com/in/kaique-f-60536b3b2
 
 ## 🎯 Objetivo
 
