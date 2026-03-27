@@ -28,23 +28,20 @@ Tenho interesse em desenvolvimento backend e construção de aplicações eficie
 **Tecnologias:**
 Java | JavaScript | Python
 
----
 
 ## 📊 Estatísticas
 
----
+
 
 ## 📫 Contato
 
+email:AtlheMap@gmail.com
 
-
----
 
 ## 🎯 Objetivo
 
 Busco uma oportunidade de estágio na área de desenvolvimento para aplicar meus conhecimentos, aprender com profissionais experientes e evoluir como desenvolvedor.
 
----
 
 ⚡ *Sempre aprendendo, evoluindo e construindo.*
 
