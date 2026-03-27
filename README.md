@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 
 Sou estudante de Desenvolvimento de Sistemas com experiência em Java, JavaScript e Python.
-Tenho interesse em desenvolvimento backend e construção de aplicações eficientes, buscando sempre evoluir em boas práticas, lógica e arquitetura de software.
+Tenho interesse em desenvolvimento backend e construção de aplicações eficientes, buscando evoluir continuamente em boas práticas, lógica de programação e arquitetura de software.
 
 ---
 
@@ -15,29 +15,47 @@ Tenho interesse em desenvolvimento backend e construção de aplicações eficie
 * **Banco de dados:** MySQL, MongoDB
 * **Ferramentas:** Git, GitHub, Visual Studio Code
 
+---
+
 ## 📌 Projetos em destaque
 
 ### 🔹 AtlheMap
 
 📱 Aplicação em desenvolvimento voltada para facilitar a busca por locais e recursos relacionados à prática de atividades físicas.
 
-**Principais funcionalidades:**
+🧩 **Problema que resolve:**
+Centraliza informações sobre locais de treino, facilitando o acesso e a escolha de espaços adequados para atividades físicas.
+
+🚀 **Funcionalidades:**
 
 * 📍 Visualização de locais em mapa
 * 🔎 Busca de espaços para treino
 * 📱 Interface simples e intuitiva
 
-**Tecnologias:**
+🛠️ **Tecnologias:**
 Java | JavaScript | Python
 
+📌 **Status:** Em desenvolvimento
 
-## 📊 Estatísticas
+🔗 **Repositório:**
+(adicione o link aqui quando subir no GitHub)
 
-
+---
 
 ## 📫 Contato
 
-email:AtlheMap@gmail.com
+* 📧 Email: [AtlheMap@gmail.com](mailto:AtlheMap@gmail.com)
+
+---
+
+## 🎯 Objetivo
+
+Busco uma oportunidade de estágio na área de desenvolvimento para aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente.
+
+---
+
+⚡ *Focado em aprender, evoluir e construir soluções reais.*
+
 
 
 ## 🎯 Objetivo
